@@ -2,7 +2,9 @@
 Add the folders under these directories:
 
 /data/MVTecAD: The directory which stores the training data, validation data and test data.
+
 /log/MVTecAD: The directory which stores the log.
+
 /src/datasets/MVTecAD.py: The dataset load python file.
 
 
