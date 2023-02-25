@@ -1,3 +1,11 @@
+# Add the MVTecAD dataset into experiments
+Add the folders under these directories:
+
+/data/MVTecAD: The directory which stores the training data, validation data and test data.
+/log/MVTecAD: The directory which stores the log.
+/src/datasets/MVTecAD.py: The dataset load python file.
+
+
 # Rethinking Assumptions in Deep Anomaly Detection
 
 This repository provides the code for the methods and experiments presented in our ICML UDL 2021 workshop paper 'Rethinking Assumptions in Deep Anomaly Detection.'
